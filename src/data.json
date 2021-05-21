@@ -1,0 +1,98 @@
+{ 
+    "products":[{
+        "id": 1,
+        "title": "Kao Mun Kai",
+        "image":
+          "https://img.wongnai.com/p/1920x0/2017/06/22/bbf899f7ab4341dea4aec6330c2afafd.jpg",
+  
+        "time": [
+          { "id": 1, "value": "10.00 น. - 12.00 น." },
+          { "id": 2, "value": "12.00 น. - 14.00 น." },
+          { "id": 3," value": "14.00 น. - 16.00 น." }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "KFC",
+        "image": "https://img.wongnai.com/p/1920x0/2020/04/28/6bec617744604fb9962720f29610aa7e.jpg",
+        "time": [
+            { "id": 1, "value": "10.00 น. - 12.00 น." },
+            { "id": 2, "value": "12.00 น. - 14.00 น." },
+            { "id": 3," value": "14.00 น. - 16.00 น." }
+          ]
+      },
+      {
+        "id": 3,
+        "title": "starbuck",
+        "image": "https://img.wongnai.com/p/1920x0/2018/10/18/06d171316c864328a68adb19c2c8873a.jpg",
+        "time": [
+            { "id": 1, "value": "10.00 น. - 12.00 น." },
+            { "id": 2, "value": "12.00 น. - 14.00 น." },
+            { "id": 3," value": "14.00 น. - 16.00 น." }
+          ]
+      },
+      {
+        "id": 4,
+        "title": "McDonale'S",
+        "image": "https://img.wongnai.com/p/1920x0/2019/09/02/468989ae6a454ab58c82ccc369aafc38.jpg",
+        "time": [
+            { "id": 1, "value": "10.00 น. - 12.00 น." },
+            { "id": 2, "value": "12.00 น. - 14.00 น." },
+            { "id": 3," value": "14.00 น. - 16.00 น." }
+          ]
+      },
+      {
+        "id": 5,
+        "title": "Burger King",
+        "image": "https://assets.brandinside.asia/uploads/2019/05/02.jpg",
+        "time": [
+            { "id": 1, "value": "10.00 น. - 12.00 น." },
+            { "id": 2, "value": "12.00 น. - 14.00 น." },
+            { "id": 3," value": "14.00 น. - 16.00 น." }
+          ]
+      },
+      {
+        "id": 6,
+        "title": "Subway",
+        "image":
+          "https://brandinside.asia/wp-content/uploads/2018/09/shutterstock_1025584780-e1536644709450.jpg",
+          "time": [
+            { "id": 1, "value": "10.00 น. - 12.00 น." },
+            { "id": 2, "value": "12.00 น. - 14.00 น." },
+            { "id": 3," value": "14.00 น. - 16.00 น." }
+          ]
+      },
+      {
+        "id": 7,
+        "title": "Bonchon",
+        "image":
+          "https://promotions.co.th/wp-content/uploads/2019/09/bonchon-coupon-combo-set.jpg",
+          "time": [
+            { "id": 1, "value": "10.00 น. - 12.00 น." },
+            { "id": 2, "value": "12.00 น. - 14.00 น." },
+            { "id": 3," value": "14.00 น. - 16.00 น." }
+          ]
+      },
+      {
+        "id": 8,
+        "title": "pizza company",
+        "image":
+          "https://www.reviewaraidee.com/wp-content/uploads/2019/09/reviewaraideefb-7.jpg",
+          "time": [
+            { "id": 1, "value": "10.00 น. - 12.00 น." },
+            { "id": 2, "value": "12.00 น. - 14.00 น." },
+            { "id": 3," value": "14.00 น. - 16.00 น." }
+          ]
+      },
+      {
+        "id": 9,
+        "title": "choongman",
+        "image":
+          "https://condotiddoi.com/condocontentimg2/2559/NEWS%2011-2020/3/30102563%20BE%20_1_201105_2.jpg",
+          "time": [
+            { "id": 1, "value": "10.00 น. - 12.00 น." },
+            { "id": 2, "value": "12.00 น. - 14.00 น." },
+            { "id": 3," value": "14.00 น. - 16.00 น." }
+          ]
+      }]
+}
